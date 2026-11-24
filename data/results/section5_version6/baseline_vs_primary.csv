@@ -1,0 +1,10 @@
+scenario,method,tol_min,n_detected,TP,FP,FN,Precision,Recall,F1,MedianErr_min,ConfirmLag_min
+3b Leave-date-out causal (all 7),PIR,1,12,5,7,3,0.4166666666666667,0.625,0.5,0.5,15.5
+3b Leave-date-out causal (all 7),PIR,2,12,7,5,1,0.5833333333333334,0.875,0.7000000000000001,0.5166666666666667,15.5
+3b Leave-date-out causal (all 7),PIR,5,12,8,4,0,0.6666666666666666,1.0,0.8,0.5083333333333333,13.716666666666667
+3b Leave-date-out causal (all 7),Fusion AND,1,10,5,5,3,0.5,0.625,0.5555555555555556,0.0,15.0
+3b Leave-date-out causal (all 7),Fusion AND,2,10,7,3,1,0.7,0.875,0.7777777777777777,0.5166666666666667,15.0
+3b Leave-date-out causal (all 7),Fusion AND,5,10,8,2,0,0.8,1.0,0.888888888888889,0.25833333333333336,13.466666666666667
+"Baseline (raw PIR, all 7 dates)",Raw PIR (no persistence),1,19,6,13,2,0.3157894736842105,0.75,0.44444444444444436,0.25,7.75
+"Baseline (raw PIR, all 7 dates)",Raw PIR (no persistence),2,19,6,13,2,0.3157894736842105,0.75,0.44444444444444436,0.25,7.75
+"Baseline (raw PIR, all 7 dates)",Raw PIR (no persistence),5,19,7,12,1,0.3684210526315789,0.875,0.5185185185185185,0.0,11.933333333333334

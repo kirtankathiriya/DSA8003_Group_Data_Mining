@@ -1,0 +1,48 @@
+{
+  "node_level": {
+    "temperature": [
+      "S1_Temp_mean",
+      "S2_Temp_mean",
+      "S3_Temp_mean",
+      "S4_Temp_mean",
+      "S1_Temp_delta",
+      "S2_Temp_delta",
+      "S3_Temp_delta",
+      "S4_Temp_delta"
+    ],
+    "light": [
+      "S1_Light_mean",
+      "S2_Light_mean",
+      "S3_Light_mean",
+      "S4_Light_mean"
+    ],
+    "sound": [
+      "S1_Sound_mean",
+      "S2_Sound_mean",
+      "S3_Sound_mean",
+      "S4_Sound_mean",
+      "S1_Sound_max",
+      "S2_Sound_max",
+      "S3_Sound_max",
+      "S4_Sound_max"
+    ],
+    "co2": [
+      "CO2_excess_mean",
+      "CO2_slope_mean"
+    ],
+    "motion": [
+      "S6_PIR_frac",
+      "S7_PIR_frac"
+    ]
+  },
+  "sensor_type_level": [
+    "temp_mean",
+    "temp_delta",
+    "light_mean",
+    "sound_mean",
+    "sound_max",
+    "CO2_excess_mean",
+    "CO2_slope_mean",
+    "pir_frac"
+  ]
+}

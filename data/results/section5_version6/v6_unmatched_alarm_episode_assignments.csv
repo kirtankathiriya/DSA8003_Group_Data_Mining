@@ -1,0 +1,4 @@
+status,predicted_time,confirm_time,type,true_time,time_error_min,confirm_lag_min,segment,delta_prev_min,episode_id
+FP,2017-12-22 19:36:36,2017-12-22 19:51:36,departure,,,,1,,1
+FP,2017-12-23 14:43:53,2017-12-23 14:43:53,arrival,,,,1,1147.2833333333333,2
+FP,2017-12-23 14:44:54,2017-12-23 14:59:54,departure,,,,1,1.0166666666666666,2

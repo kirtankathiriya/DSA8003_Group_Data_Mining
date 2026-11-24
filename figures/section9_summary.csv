@@ -1,0 +1,8 @@
+result,value
+Room-state structure,"5 K-means states across 1,044 windows"
+Global IF in high activity,42/82
+Avani consensus windows,39
+Consensus-removal membership changes,11
+Consensus-removal ARI,0.977
+K-means/GMM ARI,0.762
+1-min vs 5-min cluster ARI,0.854

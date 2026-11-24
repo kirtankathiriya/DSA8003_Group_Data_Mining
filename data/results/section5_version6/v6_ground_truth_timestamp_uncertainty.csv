@@ -1,0 +1,9 @@
+annotation_ts,event_type,last_old_label_ts,annotation_gap_sec,nearest_prediction_within_5min,prediction_within_open_gap,prediction_at_old_label_boundary
+2017-12-22 14:15:58,departure,2017-12-22 14:15:27,31.0,2017-12-22 14:16:59,False,False
+2017-12-22 15:25:24,arrival,2017-12-22 15:23:52,92.0,2017-12-22 15:26:56,False,False
+2017-12-22 19:39:40,departure,2017-12-22 19:36:36,184.0,2017-12-22 19:36:36,False,True
+2017-12-23 11:49:16,arrival,2017-12-23 11:48:45,31.0,2017-12-23 11:49:16,True,False
+2017-12-23 14:10:11,departure,2017-12-23 14:09:40,31.0,2017-12-23 14:10:42,False,False
+2017-12-23 15:26:46,arrival,2017-12-23 15:26:16,30.0,2017-12-23 15:26:46,True,False
+2017-12-23 19:52:16,departure,2017-12-23 19:51:46,30.0,2017-12-23 19:52:47,False,False
+2018-01-10 17:57:27,departure,2018-01-10 17:56:56,31.0,2018-01-10 17:57:27,True,False

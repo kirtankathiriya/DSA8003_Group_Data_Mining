@@ -1,0 +1,4 @@
+predicted_time,estimated_type,label_count_at_nearest_reading,pir_s6,pir_s7,mean_sound_at_reading,closest_true_transition_min,note
+2017-12-22 19:36:36,departure,3,1.0,1.0,0.37,3.066666666666667,Unmatched under recorded occupancy labels; not proof of actual person or faulty annotation
+2017-12-23 14:43:53,arrival,0,1.0,0.0,0.31999999999999995,33.7,Unmatched under recorded occupancy labels; not proof of actual person or faulty annotation
+2017-12-23 14:44:54,departure,0,1.0,0.0,0.6325,34.71666666666667,Unmatched under recorded occupancy labels; not proof of actual person or faulty annotation

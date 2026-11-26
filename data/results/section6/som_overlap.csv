@@ -1,0 +1,4 @@
+comparison,SOM_review,comparison_windows,intersection,union,jaccard
+GMM disagreement,53,118,5,166,0.030120481927710843
+Provisional global IF,53,53,37,69,0.5362318840579711
+Provisional global LOF,53,53,7,99,0.0707070707070707

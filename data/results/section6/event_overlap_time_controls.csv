@@ -1,0 +1,3 @@
+source,observed_hits,mean_random_hits,p2.5,median,p97.5,upper_tail_fraction
+Fusion AND estimates,0,0.846,0.0,1.0,3.0,1.0
+Recorded transitions,0,0.681,0.0,1.0,2.0,1.0

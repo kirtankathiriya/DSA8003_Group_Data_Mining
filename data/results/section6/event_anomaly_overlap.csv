@@ -1,0 +1,3 @@
+source,events,events_with_eligible_bin,events_inside_consensus_bin,events_near_consensus,unique_consensus_windows_near_events,unique_consensus_episodes_near_events,all_consensus_windows,all_consensus_episodes
+Fusion AND estimates,10,9,0,0,0,0,35,28
+Recorded transitions,8,7,0,0,0,0,35,28

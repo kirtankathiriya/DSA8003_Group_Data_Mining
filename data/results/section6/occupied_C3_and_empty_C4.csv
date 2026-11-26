@@ -1,0 +1,10 @@
+segment,win,start,cluster,n_readings,occ_mode,light_mean,sound_max,pir_frac,CO2_excess_mean,CO2_slope_mean,anomaly,anomaly_votes,anomaly_category,anomaly_drivers,last_reading,minimum_count,maximum_count,PIR_readings,co2_change_ppm,recording_runs,nearby_events
+0,2,2017-12-22 10:59:54,3,10,1,65.175,1.57,0.25,11.0,0.33499999999998004,True,3,Multi-sensor behaviour,"S1_Sound_max, S6_PIR_frac, S1_Sound_mean, S2_Sound_max",2017-12-22 11:04:29,1,1,5,15,1,
+0,3,2017-12-22 11:05:00,3,10,1,64.92500000000001,0.93,0.05,21.0,0.9188461538454,True,2,Multi-sensor behaviour,"S1_Sound_max, CO2_slope_mean, S1_Sound_mean, S2_Sound_max",2017-12-22 11:09:36,1,1,1,20,1,
+0,4,2017-12-22 11:10:06,3,9,1,65.97222222222223,1.44,0.1111111111111111,35.0,1.2132478632477777,True,3,Multi-sensor behaviour,"S1_Sound_max, S1_Sound_mean, CO2_slope_mean, S6_PIR_frac",2017-12-22 11:14:12,1,1,2,10,1,
+0,5,2017-12-22 11:14:42,3,10,1,65.8,0.94,0.1,39.0,1.008461538461,True,2,Multi-sensor behaviour,"S1_Sound_max, S1_Sound_mean, S6_PIR_frac, CO2_slope_mean",2017-12-22 11:19:18,1,1,2,15,1,
+0,6,2017-12-22 11:19:49,3,10,1,66.3,1.1,0.1,50.0,0.8550000000000999,True,3,Multi-sensor behaviour,"S1_Sound_mean, S1_Sound_max, S6_PIR_frac, CO2_slope_mean",2017-12-22 11:24:24,1,1,2,0,1,
+1,33,2017-12-22 15:53:29,3,9,1,59.861111111111114,0.15,0.0,238.88888888888889,1.4179487179488888,True,3,Multi-sensor behaviour,"CO2_slope_mean, CO2_excess_mean, S1_Temp_mean, S2_Temp_mean",2017-12-22 15:57:34,1,1,0,5,1,
+1,307,2017-12-23 14:43:22,4,10,0,34.974999999999994,1.61,0.25,177.0,-3.388846153846,False,0,,,2017-12-23 14:47:58,0,0,4,10,1,Fusion AND estimates · arrival · 23 Dec 14:43:53 · FP | Fusion AND estimates · departure · 23 Dec 14:44:54 · FP
+1,308,2017-12-23 14:48:29,4,9,0,33.41666666666667,0.69,0.0,186.66666666666666,-0.5619658119658,False,0,,,2017-12-23 14:52:34,0,0,0,-5,1,Fusion AND estimates · departure · 23 Dec 14:44:54 · FP | Fusion AND estimates · arrival · 23 Dec 14:43:53 · FP
+1,310,2017-12-23 14:58:11,4,10,0,31.2,0.66,0.05,160.5,-1.0769230769240998,False,0,,,2017-12-23 15:02:46,0,0,1,-15,1,
